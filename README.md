@@ -6,7 +6,7 @@ users / user identities.
 ## Get it!
 ```
 mkdir -p ~/.git/hooks/bin && cd $_
-git clone git://github.com/frace/git-passport.git
+git clone http://github.com/zijlstra-it/git-passport.git
 chmod +x ./git-passport/git-passport.py
 ```
 
